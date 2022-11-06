@@ -1,6 +1,6 @@
 {
   "name": "mi-menu",
-  "homepage": "https://jaret-hl.github.io/Menreact",
+  "homepage": "https://jaret-hl.github.io/MenuReact",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -19,7 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [

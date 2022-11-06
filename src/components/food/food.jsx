@@ -26,11 +26,11 @@ const food = () => {
         <div className='food_item-image'>
           <img src={IMG2} alt="" />
         </div>
-        <h3>Este es el menú de l día</h3>
+        <h3>Este es el menú del día</h3>
         <div className="food_item-cta">
 
         <a href="https://github.com" className='btn' target='_blank'>Pedido</a>
-        <a href="https://dribbble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+        <a href="https://dribbble.com" className='btn btn-primary' target='_blank'>Comprar</a>
         </div>
       </article>
       {/* art3 */}
